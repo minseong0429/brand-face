@@ -1,31 +1,4 @@
 body {
-  font-family: sans-serif;
-  background-color: #eeeeee;
-}
-
-.file-upload {
-  background-color: #ffffff;
-  width: 600px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.file-upload-btn {
-  width: 100%;
-  margin: 0;
-  color: #fff;
-  background: #1FB264;
-  border: none;
-  padding: 10px;
-  border-radius: 4px;
-  border-bottom: 4px solid #15824B;
-  transition: all .2s ease;
-  outline: none;
-  text-transform: uppercase;
-  font-weight: 700;
-}
-
-body {
   font-family: 'Jua', sans-serif;
   background-color: #ffffff;
   box-sizing: border-box;
@@ -329,44 +302,45 @@ body {
 }
 
 
-.animal-explain {
+.brand-explain {
     font-size: 1.5rem;
 }
-.Gucci-animal-title {
+.Gucci-brand-title {
     color: #3ba363;
 }
-.Gucci-animal-celeb {
-    color: #3ba363;
-    font-size: 1.2rem;
-}
-.Dior-animal-title {
-    color: #3ba363;
-}
-.Dior-animal-celeb {
+.Gucci-brand-celeb {
     color: #3ba363;
     font-size: 1.2rem;
 }
-.Chanel-animal-title {
+.Dior-brand-title {
+    color: #3ba363;
+}
+.Dior-brand-celeb {
+    color: #3ba363;
+    font-size: 1.2rem;
+}
+.Chanel-brand-title {
     color: #ff6c0a;
 }
-.Chanel-animal-celeb {
+.Chanel-brand-celeb {
     color: #ff6c0a;
     font-size: 1.2rem;
 }
-.Prada-animal-title {
+.Prada-brand-title {
     color: #548dd4;
 }
-.Prada-animal-celeb {
+.Prada-brand-celeb {
     color: #548dd4;
     font-size: 1.2rem;
 }
-.Burberry-animal-title {
+.Burberry-brand-title {
     color: #e56995;
 }
-.Burberry-animal-celeb {
+.Burberry-brand-celeb {
     color: #e56995;
     font-size: 1.2rem;
 }
+
 /* gender */
 input#gender {
   display: none;
