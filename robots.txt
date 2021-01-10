@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://brandface.ga/sitemap.xml
